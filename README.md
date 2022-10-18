@@ -16,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruv-Limbani&show_icons=true&locale=en" alt="Dhruv-Limbani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-limbani&theme=aura_dark" alt="dhruv-limbani" /></p>
-[![@dhruv_limbani's Holopin board](https://holopin.me/dhruv_limbani)](https://holopin.io/@dhruv_limbani)
