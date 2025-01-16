@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Limbani</h1>
-<h3 align="center">Aspiring Data Scientist and Machine Learning Enthusiast</h3>
 
 Hello! I'm Dhruv, a graduate student at Columbia University pursuing MS in Computer Science with a focus on Machine Learning.
-
 I completed my Bachelor's in Computer Science and Engineering at SRM Institute of Science and Technology, where I developed a passion for solving real-world problems using Machine Learning, Computer Vision, Natural Language Processing, and Generative AI.
 
 All of my current and previous projects, as well as the research work I conducted during my bachelor's, incorporate:
