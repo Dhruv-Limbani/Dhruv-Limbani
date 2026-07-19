@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Limbani</h1>
 
-Hello! I'm Dhruv, a Master's student in Computer Science at Columbia University, specializing in Machine Learning.
+I’m an AI Engineer focused on building intelligent, scalable AI systems that solve real-world business challenges. My work spans designing Retrieval-Augmented Generation (RAG) systems, researching and implementing AI architectures, and developing autonomous AI agents that streamline complex data workflows and improve operational efficiency.
 
-I build and deploy intelligent systems to solve complex problems. My work spans Machine Learning, Natural Language Processing, and Computer Vision, with a focus on creating end-to-end solutions—from architecting data pipelines to training models and developing scalable applications.
+Most recently, I've built company-wide autonomous coding and QA agents that enhance developer productivity and automate key engineering processes. Alongside AI development, I work extensively with large-scale data, writing and optimizing SQL queries, conducting product analytics, and transforming complex datasets into actionable insights that inform product and business decisions.
 
-I am actively seeking full-time opportunities as a Data Scientist or Machine Learning Engineer starting December 2025. Let's connect!
+I'm passionate about applying the latest advances in AI to create practical, reliable solutions that deliver measurable impact.
